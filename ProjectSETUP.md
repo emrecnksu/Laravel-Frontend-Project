@@ -7,13 +7,13 @@ Adımlar
 1. Bu Depoyu Klonlama
 Bu GitHub deposunu yerel bilgisayarınıza klonlayın:
 
-https://github.com/emrecnksu/PHP_LARAVEL_FRONTEND_PROJECT.git
+https://github.com/emrecnksu/Laravel-Frontend-Project.git
 
 
 2. Proje Dizinine Girme
 Klonlama işlemini yaptıktan sonra yeni komut satırında proje klasörüne girmek için şu komutu yazmanız gerekiyor:
 
-cd PHP_LARAVEL_FRONTEND_PROJECT
+cd Laravel-Frontend-Project
 
 
 3. Laravel ile Proje Oluşturma ve Kurma:
@@ -27,11 +27,11 @@ Laravel yükleyicisini Composer aracılığıyla global olarak yükleyerek yeni 
 
 composer global require laravel/installer
  
-laravel new example-app
+laravel new Laravel-Frontend-Project
 
 Bu adımları uyguladıktan sonra dosyanın bulunduğu path'e girmeniz gerekiyor:
 
-- cd example-app
+- cd Laravel-Frontend-Project
 
 
 4. Gerekli olan dosyaları yapılandırma:
@@ -84,13 +84,13 @@ Steps
 1. Cloning This Repository
 Clone this GitHub repository to your local computer:
 
-https://github.com/emrecnksu/PHP_LARAVEL_FRONTEND_PROJECT.git
+https://github.com/emrecnksu/Laravel-Frontend-Project.git
 
 
 2. Entering the Project Directory
 After cloning, you need to type the following command to enter the project folder in the new command line:
 
-cd PHP_LARAVEL_FRONTEND_PROJECT
+cd Laravel-Frontend-Project
 
 
 3. Creating and Installing a Project with Laravel:
@@ -104,11 +104,11 @@ You can create new Laravel projects by installing the Laravel installer globally
 
 composer global require laravel/installer
  
-laravel new example-app
+laravel new Laravel-Frontend-Project
 
 After following these steps, you need to enter the path where the file is located:
 
-- cd example-app
+- cd Laravel-Frontend-Project
 
 
 4. Configuring the required files:
